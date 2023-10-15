@@ -1,6 +1,6 @@
 {
   "name": "@nodearch/swagger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Swagger",
   "exports": {
     ".": {
@@ -41,7 +41,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@nodearch/core": "2.0.1",
+    "@nodearch/core": "2.x",
     "reflect-metadata": "0.x",
     "swagger-ui-dist": "4.x"
   }

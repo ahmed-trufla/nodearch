@@ -1,6 +1,6 @@
 {
   "name": "@nodearch/command",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeArch Command Toolkit",
   "exports": {
     ".": {
@@ -44,7 +44,7 @@
     "inquirer": "^9.1.4"
   },
   "peerDependencies": {
-    "@nodearch/core": "2.0.1",
+    "@nodearch/core": "2.x",
     "reflect-metadata": "0.x"
   },
   "nodearch": {}
